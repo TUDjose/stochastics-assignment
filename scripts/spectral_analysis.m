@@ -44,11 +44,11 @@ labels = ["$S_{uu} \frac{rad^2}{Hz}$"
     "$S_{qq} \frac{rad^2}{Hz}$"
     "$S_{nznz} \frac{rad^2}{Hz}$"];
 
-labels_hat = ["$\Hat{S}_{uu} \frac{rad^2}{Hz}$"
-    "$\Hat{S}_{\alpha\alpha} \frac{rad^2}{Hz}$"
-    "$\Hat{S}_{\theta\theta} \frac{rad^2}{Hz}$"
-    "$\Hat{S}_{qq} \frac{rad^2}{Hz}$"
-    "$\Hat{S}_{nznz} \frac{rad^2}{Hz}$"];
+labels_hat = ["$\hat{S}_{uu} \frac{rad^2}{Hz}$"
+    "$\hat{S}_{\alpha\alpha} \frac{rad^2}{Hz}$"
+    "$\hat{S}_{\theta\theta} \frac{rad^2}{Hz}$"
+    "$\hat{S}_{qq} \frac{rad^2}{Hz}$"
+    "$\hat{S}_{nznz} \frac{rad^2}{Hz}$"];
 
 figure(1)
 for i = 1:5
